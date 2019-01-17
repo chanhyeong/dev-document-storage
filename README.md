@@ -7,8 +7,8 @@
 - [Computer Science][CS]
 - [CI/CD][CICD]
 
-[JAVA]: https://github.com/chanhyeong/devDocumentStorage/JAVA.md
-[CICD]: https://github.com/chanhyeong/devDocumentStorage/CICD.md
-[SPRING]: https://github.com/chanhyeong/devDocumentStorage/SPRING.md
-[GIT]: https://github.com/chanhyeong/devDocumentStorage/GIT.md
-[CS]: https://github.com/chanhyeong/devDocumentStorage/CS.md
+[JAVA]: https://github.com/chanhyeong/devDocumentStorage/blob/master/JAVA.md
+[CICD]: https://github.com/chanhyeong/devDocumentStorage/blob/master/CICD.md
+[SPRING]: https://github.com/chanhyeong/devDocumentStorage/blob/master/SPRING.md
+[GIT]: https://github.com/chanhyeong/devDocumentStorage/blob/master/GIT.md
+[CS]: https://github.com/chanhyeong/devDocumentStorage/blob/master/CS.md
