@@ -1,4 +1,4 @@
-# CI/CD
+## CI/CD
 
 - [우아한 형제들 CI/CD][woowaCICD]
 

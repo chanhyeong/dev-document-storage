@@ -1,4 +1,4 @@
-# 기초지식 (Computer Science)
+## 기초지식 (Computer Science)
 
 - [TCP/IP 네트워크 스택 이해하기][TCP/IPStack]
 
