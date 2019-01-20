@@ -13,4 +13,4 @@
 [SPRING]: https://github.com/chanhyeong/devDocumentStorage/blob/master/SPRING.md
 [GIT]: https://github.com/chanhyeong/devDocumentStorage/blob/master/GIT.md
 [CS]: https://github.com/chanhyeong/devDocumentStorage/blob/master/CS.md
-[WEB]: [CS]: https://github.com/chanhyeong/devDocumentStorage/blob/master/WEB.md
+[WEB]: https://github.com/chanhyeong/devDocumentStorage/blob/master/WEB.md
